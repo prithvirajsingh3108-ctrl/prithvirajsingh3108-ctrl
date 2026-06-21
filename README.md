@@ -87,9 +87,6 @@ Automated attendance system using OpenCV and Python.
 ## 🌐 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/prithviraj-singh-b3804a383)
-
-📧 Email: prithvirajsingh3108@gmail.com
-
 ---
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="5000">
