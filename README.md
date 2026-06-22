@@ -79,7 +79,9 @@ Automated attendance system using OpenCV and Python.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prithvirajsingh3108-ctrl&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prithvirajsingh3108-ctrl&layout=compact&theme=tokyonight)
+
 ![](https://komarev.com/ghpvc/?username=prithvirajsingh3108-ctrl&color=blue)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=prithvirajsingh3108-ctrl&theme=tokyonight)
 
 ---
