@@ -237,4 +237,3 @@ prithvirajsingh3108@gmail.com
 </p>
 
 ⭐ Building the future, one AI project at a time.
-```
